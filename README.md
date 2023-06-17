@@ -59,7 +59,7 @@ To use this project, follow these steps:
    - Green to PWD pin 11
 5. Ensure that each of these pins passes through a 220 Ω resistor before connecting to the corresponding pin of the RGB LED.
 6. Connect the ground pin of the RGB LED directly to the ground using a jumper wire.
-7. Upload the `RG_LED_Selector.ino` code file to the Arduino UNO using the Arduino IDE or your preferred method.
+7. Upload the `RGB_LED_Selector.ino` code file to the Arduino UNO using the Arduino IDE or your preferred method.
 8. Observe the RGB LED and adjust the potentiometers to change the color. The RGB LED will reflect the color determined by the values read from the potentiometers.
 
 ## License
