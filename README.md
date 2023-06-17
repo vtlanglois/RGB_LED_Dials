@@ -64,7 +64,7 @@ To use this project, follow these steps:
 
 ## License
 
-This project is licensed under the MIT License. Developers and educators are free to use this project for their own purposes.
+This project is licensed under the MIT License. Developers and educators are free to use this project for their own purposes. You are obligated to provide attribution in the event you use this project in your projects.
 
 ## Warning
 
